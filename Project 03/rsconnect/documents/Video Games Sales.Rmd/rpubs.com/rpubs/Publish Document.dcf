@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/919358/01f94961a1bb4d44b5e42b71826844da
+bundleId: https://api.rpubs.com/api/v1/document/919358/01f94961a1bb4d44b5e42b71826844da
+url: http://rpubs.com/blackskyjason1993/919358
+when: 1656310743.93694
+lastSyncTime: 1656310743.93694

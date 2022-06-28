@@ -1,0 +1,64 @@
+---
+title: "Capstone Project: Video Games Sales"
+author: "Jia Jing Liew"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+<h1>Introduction</h1>
+<h4>
+For the capstone project, I have selected the video game sales analysis to work on. For the case study, I will perform the junior data analyst for the marketing team at little game company where in Chicago. Now, my company want creating a new game, I need know which genre of game, who is the greatest consumers group. I will use RStudio for analysing.
+</h4>
+---
+<h1>Step 1: Ask</h1>
+
+<h4>1. How many game sales on global from 2013 to 2020? </h4>
+
+<h4>2. Which area are the most sales volume?  </h4>
+
+<h4>3. Which kind of game is the most popular? Why it is the most popular genre?  </h4>
+
+<h4>4. In the global, is that having the lowest marketing place?  </h4>
+
+<h4>5. Which platform is the most popular?</h4>
+
+---
+<h1>Problem 1: How many game sales on global from 2013 to 2020?</h1>
+From 2013 to 2020, the total game sales which on PS4 and XBox are 594.79 millions and 268.73 millions. For all platform, the total game sales is 714.07 millions. 
+---
+<h1>Problem 2: Which area are the most sales volume?</h1>
+<h4>
+North America is having the greatest sales in global, is the greatest consumers group in global, but Japan marketing is the smallest consumers group in global. 
+</h4>
+---
+<h1>Problem 3: Which kind of game is the most popular? Why it is the most popular genre?</h1>
+<h4>
+In all genre game, action game and shooter game are the most popular, them have percentage from all genre 31.7% and 13.5%, respectively. The reason of causing this may be action game is easily control for playing, and the more action games have interesting and heroism story. Shooter game have a model, usually, it can choose two players or single player, it is a good design for increasing the game fun. 
+</h4>
+---
+<h1>Problem 4: In the global, is that having the lowest marketing place?</h1>
+<h4>
+North America is having the greatest sales in global, almost 304 millions, is the greatest consumers group in global, but Japan marketing is the smallest consumers group in global, just nearly 50 millions. 
+</h4>
+
+---
+<h1>Problem 5: Which platform is the most popular?</h1>
+<h4>
+All the platform, PS4 is the best sales in global, have the highest percentage from all platforms 25.5%. And the second most popular platform is XBox which has percentage 16.9%.
+</h4>
+
+---
+<h1>Conclusion</h1>
+<h4>From 2013 to 2020, the total game sales which on PS4 and XBox are 594.79 millions and 268.73 millions. For all platform, the total game sales is 714.07 millions. Is a huge number, North America is having the greatest sales in global, is the greatest consumers group in global, but Japan marketing is the smallest consumers group in global. In all genre game, action game and shooter game are the most popular, them have percentage from all genre 31.7% and 13.5%, respectively. The reason of causing this may be action game is easily control for playing, and the more action games have interesting and heroism story. Shooter game have a model, usually, it can choose two players or single player, it is a good design for increasing the game fun. All the platform, PS4 is the best sales in global, have the highest percentage from all platforms 25.5%. And the second most popular platform is XBox which has percentage 16.9%.</h4>
+
+[**Video Games Sales**](https://rpubs.com/blackskyjason1993/919358)
+
+[**Presentation: Video Games Sales**](https://rpubs.com/blackskyjason1993/919377)
+---
+class:center, middle
+<h1>Thank You</h1>
